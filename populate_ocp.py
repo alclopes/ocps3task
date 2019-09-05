@@ -1,5 +1,7 @@
 import os
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ocp.settings.development')
+from decouple import config
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', config('SETTINGS_MODULE_PATH'))
 
 import django
 django.setup()
