@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     ##### libs
     'taggit',
     ##### apps
+    'ocp',
     'ocp.accounts',
     'ocp.core',
     'ocp.courses',

@@ -19,7 +19,7 @@ if USE_S3:
     # # ########################## AWS S3 Static files (CSS, JavaScript, Images)
     STATICFILES_LOCATION = 'static'
     STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{STATICFILES_LOCATION}/'
-    STATICFILES_STORAGE = config('STATICFILES_STORAGE')
+    STATICFILES_STORAGE = config('AWS_STATICFILES_STORAGE')
 
     # # ########################## AWS S3 Private Media Upload
     # # Amazon S3/testheroku-assets/media/myimage/files
