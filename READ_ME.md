@@ -5,11 +5,11 @@
 * This project was started in Python == 3.4 and Django == 1.8 while attending Udemy.
 * After this course the project was expanded with new libraries, features, controls and migrated to newer versions of Python (3.7) and Django (2.2.4). 
 
-- [Next Steps] (#nextsteps)
-- [Activities Completed] (#done)
-- [List of Tables and Project Features] (#services)
-- [Best Practices / Attentions] (#atention)
-- [Know the project] (#see)
+- [Next Steps](#nextsteps)
+- [Activities Completed](#done)
+- [List of Tables and Project Features](#services)
+- [Best Practices / Attentions](#atention)
+- [Know the project](#see)
 
 <div id = 'nextsteps' />
 
@@ -33,7 +33,7 @@
 * Awaiting
 
 
-[Back to top] (#top)
+[Back to top](#top)
 
 
 <div id = 'done' />
@@ -201,7 +201,7 @@ So Django will stop using its default user auth, and will use the USER Accounts 
 * Udemy Professor Gileno Alves Santa Cruz Filho Course - Situation Completed
 * See button control pages thread.html
 
-[Back to top] (#top)
+[Back to top](#top)
 
     
 <div id = 'services' />
@@ -255,7 +255,7 @@ So Django will stop using its default user auth, and will use the USER Accounts 
 * Other project required entries available via Admin module
 
 
-[Back to top] (#top)
+[Back to top](#top)
 
 
 <div id = 'atention' />
@@ -266,15 +266,15 @@ In addition to best practices and care pointed out in other projects, remember t
 1. When using S3 to store static files we must remember to include their update to the automatic continuous update process.
 
 
-[Back to top] (#top)
+[Back to top](#top)
 
 
 <div id = 'see' />
 
 ## Know the project
 
-Meet this application on [Heroku] (https://ocps3task.herokuapp.com/).
-Meet API of the application on [Heroku] https://ocps3task.herokuapp.com/api/
+Meet this application on [Heroku](https://ocps3task.herokuapp.com/).
+Meet API of the application on [Heroku]https://ocps3task.herokuapp.com/api/
 
 Login Profiles:
  
@@ -285,4 +285,4 @@ Login Profiles:
 | teacher01 | teacher |
 
 
-[Back to top] (#top)
+[Back to top](#top)
