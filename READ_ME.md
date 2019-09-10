@@ -260,7 +260,7 @@ So Django will stop using its default user auth, and will use the USER Accounts 
 
 <div id = 'atention' />
 
-## Good Practice / Care
+## Good Practice / Attentions
 In addition to best practices and care pointed out in other projects, remember that:
 
 1. When using S3 to store static files we must remember to include their update to the automatic continuous update process.
